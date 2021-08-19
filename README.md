@@ -1,4 +1,4 @@
-# Update: As of August 2019, Feeds are no longer managed by the Center for Mobility Equity (CME). The University of Maryland's Maryland Transportation Institute (MTI) is now managing the feeds. 
+# Update: As of August 2019, the University of Maryland's Maryland Transportation Institute (MTI) manages the feeds. 
 
 # maryland-local-gtfs
 A repository for MD LOTS GTFS feeds that are managed and updated by MTI, a service provided free of charge.
